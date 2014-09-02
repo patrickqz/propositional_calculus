@@ -1,0 +1,1 @@
+A simple solver for propositional calculus problems
